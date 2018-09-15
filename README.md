@@ -157,3 +157,7 @@ Configure the Uncomplicated Firewall (UFW) to only allow incoming connections fo
 ## Restart Apache
 
 1. Restart Apache `sudo service apache2 restart`
+
+## Sources
+
+Thanks to **kongling893**, **rrjoson** and **adityamehra** for their very helpful READMEs.
